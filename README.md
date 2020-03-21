@@ -38,8 +38,8 @@ multi-wget  http://download.url/file1  http://another.download.url/file2
 
 Go Dependencies:
   * [spf13/cobra](https://github.com/spf13/cobra)
-	* [urfave/cli](https://github.com/urfave/cli)
-	* [vbauerster/mpb](https://github.com/vbauerster/mpb)
+  * [urfave/cli](https://github.com/urfave/cli)
+  * [vbauerster/mpb](https://github.com/vbauerster/mpb)
 
 
 ### LICENSE
